@@ -1,0 +1,498 @@
+    1  sudo pacman -Syu
+    2  sudo pacman -Syu dialog
+    3  poveroff
+    4  poweroff
+    5  pacman -Syu
+    6  sudo pacman -Syu
+    7  /etc/local.gen
+    8  pacman -S kbd -ru-keymaps
+    9  sudo pacman -S kbd -ru-keymaps
+   10  iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   11  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   12  ttl
+   13  io
+   14  ip
+   15  -ping
+   16  ping
+   17  ping -c
+   18  ping -ttl
+   19  ping -t
+   20  ping -t 65
+   21  poweroff
+   22  java
+   23  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65cls
+   24  poweroff
+   25  sudo iptables
+   26  sudo iptables -t
+   27  sudo iptables -t mangle
+   28  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   29  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   30  /bin/bash
+   31  c
+   32  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65cls
+   33  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   34  sudo vi /etc/init.d/local.autostart
+   35  sudo vi /etc/init.d/local.autostart
+   36  sudo vi /etc/init.d/local.autostart
+   37  sudo -s
+   38  sudo iptablets
+   39  sudo iptables
+   40  sudo iptables -h
+   41  sudo google
+   42  ping
+   43  ping google.com
+   44  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   45  sudo pacman _s git
+   46  sudo pacman -S git
+   47  git clone https://aur.archlinux.org/google-chrome.git
+   48  cd Dowlands
+   49  cd Dowlands/
+   50  cd Downlands/
+   51  cd Downloads/
+   52  git clone https://aur.archlinux.org/google-chrome.git
+   53  cd google-chrome/
+   54  ls
+   55  make pkg -s
+   56  makepkg -s
+   57  sudo pacman -U google-chrome-63.0.3239.108-1-x86_64.pkg.tar.xz
+   58  ls
+   59  sudo pacman -U google-chrome-74.0.3729.108-1-x86_64.pkg.tar.xz
+   60  poveroff
+   61  poweroff
+   62  ping 127.0.0.1
+   63  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   64  ping 127.0.0.1
+   65  ping 127.0.0.1
+   66  yaourt
+   67  sudo pacman -S firefox
+   68  firefox
+   69  sudo pacman -R firefox
+   70  pacman -Ss firefox
+   71  ping 127.0.0.1
+   72  tree
+   73  sudo pacman -S tree
+   74  tree
+   75  mkdeer
+   76  mkder
+   77  mkdear
+   78  poweroff
+   79  gcc
+   80  cd
+   81  gcc
+   82  gcc
+   83  poweroff
+   84  ping 127.0.0.1
+   85  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   86  tree
+   87  vim
+   88  vim
+   89  AA
+   90  ?
+   91  pacma -R ns3
+   92  pacman -R ns3
+   93  sudo pacman -R ns3
+   94  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+   95  ping 127.0.0.1
+   96  makepkg -si
+   97  wget https://aur.archlinux.org/packages/ns3.tar.gz
+   98   tar -xvzf  ns3.tar.gz
+   99  wget https://aur.archlinux.org/cgit/aur.git/snapshot/ns3.tar.gz
+  100   tar -xvzf  ns3.tar.gz
+  101  cd ns3
+  102  makepkg -s
+  103  git clone https://aur.archlinux.org/aurman.git 
+  104  cd aurman/
+  105  makepkg -si
+  106  pacman -S binutils
+  107  sudo pacman -S binutils
+  108  makepkg -si
+  109  gpg --recev-keys 465022E743D71E39
+  110  gpg --recv-keys 465022E743D71E39
+  111  makepkg -si
+  112  cd
+  113  aurman -Ss
+  114  aurman -Ss ns3
+  115  aurman -Ss https://aur.archlinux.org/ns3.git 
+  116  aurman -S https://aur.archlinux.org/ns3.git 
+  117  aurman -Ss ns3
+  118  aurman -S aur/ns3
+  119  git clone https://aur.archlinux.org/ns3.git 
+  120  ns3
+  121  rm ns3
+  122  rm -rf ns3
+  123  cd ns3
+  124  git clone https://aur.archlinux.org/ns3.git 
+  125  cd ns3/
+  126  makepkg -si
+  127  makepkg -si
+  128  aurman -Ss pygoocanvas
+  129  aurman -S aur/pygoocanvas
+  130  makepkg -si
+  131  cd
+  132  sudo pacman -Suy
+  133  sudo pacman -S yaourt
+  134  cd downloads
+  135  cd Downloads
+  136  tar -xvf ns3.tar.gz
+  137  cd ns3
+  138  ls
+  139  git clone https://aur.archlinux.org/pygoocanvas.git 
+  140  makepkg pygoocanvas
+  141  aurman -Ss ns3
+  142  aurman -Ss ns3 3.29-1
+  143  aurman -S ns3 3.29-1
+  144  aurman -S 
+  145  aurman -S aur/ns3
+  146  aurman -S ns3
+  147  sudo pacman -S --needed base-devel git wget yajl
+  148  cd
+  149  sudo pacman -S --needed base-devel git wget yajl
+  150  sudo nano /etc/pacman.conf
+  151  sudo pacman -Sy yaourt
+  152  sudo pacman -Sy yaourt
+  153  sudo nano /etc/pacman.conf
+  154  sudo pacman -Sy yaourt
+  155  sudo pacman -Sy Yaourt
+  156  sudo pacman -Sy yaourt
+  157  git clone https://aur.archlinux.org/yaourt.git
+  158  git clone https://aur.archlinux.org/yaourt.git
+  159  git clone https://aur.archlinux.org/package-query.git
+  160  cd package-query
+  161  makepkg -si
+  162  cd
+  163  sudo pacman -S --needed base-devel git wget yajl
+  164  cd package-query
+  165  makepkg -si
+  166  cd yaourt
+  167  git clone https://aur.archlinux.org/yaourt.git
+  168  cd
+  169  cd yaourt
+  170  makepkg -si
+  171  cd
+  172  yaourt
+  173  yaourt -h
+  174  yaourt -S ns3
+  175  yaourt -S ns3-hg
+  176  yaourt -S ns3-full
+  177  yaourt -S ns-3
+  178  yaourt -S ns3
+  179  yaourt -S python2-pygraphviz 
+  180  yaourt -S castxml
+  181  yaourt -S castxml-git
+  182  yaourt -S ns3
+  183  yaourt -S python2-setuptools-git
+  184  yaourt -S ns3
+  185  yaourt -S python-pygraphviz
+  186  yaourt -S ns3
+  187  clone https://github.com/ArchStrike/ArchStrike.git
+  188  git clone https://github.com/ArchStrike/ArchStrike.git
+  189  cd ArchStrike
+  190  cd ArchStrike
+  191  cd archStrike
+  192  yaourt -S ns3
+  193  св
+  194  cd
+  195  ns3
+  196  yaourt -S ns3
+  197  ns3
+  198  ns3-3
+  199  ns3-3
+  200  ns3
+  201  yaourt -S ns3
+  202  ns3
+  203  ns3-hg
+  204  Files
+  205  calculator
+  206  CMake
+  207  vim
+  208  ns3
+  209  google
+  210  google chrom
+  211  gnom-notes
+  212  ns3
+  213  cd user
+  214  cd usr
+  215  cd /usr
+  216  cd /bin
+  217  ls
+  218  pacman -Ss ns3
+  219  cd
+  220  pacman -Ss ns3
+  221  pacman -Ss ^ssh
+  222  pacman -Ss ^ssh ns3
+  223  pacman -Qs ns3
+  224  cd local
+  225  pacman -Qlq ns3
+  226  pacman -Qlq CMake
+  227  pacman -Qlq Calculator
+  228  pacman -Qlq ns3
+  229  yaourt -S ns3-hp
+  230  yaourt -S ns3-hg
+  231  yaourt -S ns3-hg
+  232  ns3-hg
+  233  pacman -Qlq ns3-hg
+  234  cd/usr/bin/
+  235  cd usr/bin/
+  236  cd usr/
+  237  cd /usr/
+  238  cd /bin
+  239  ns3-dev-bench-simulator
+  240  yaourt -S Audacity
+  241  yaourt -S audacity
+  242   audacity
+  243  pacman -Rs audacity
+  244  sudo pacman -Rs audacity
+  245  yaourt -S mp3directcut
+  246   mp3directcut
+  247  yaourt -S mp3directcut
+  248  yaourt -S Qtractor
+  249  yaourt -S qtractor
+  250   qtractor
+  251  :q
+  252  yaourt -S  tracktion-6
+  253  yaourt -S  tracktion-6
+  254  yaourt -S   t7-daw
+  255   t7-daw
+  256  yaourt -S   telegram-desktop
+  257   tracktion-6
+  258   qtractor
+  259   qtractor
+  260  sudo pacman -Rs qtractor
+  261  sudo pacman -Rs 
+  262  yaourt -S   t7-daw
+  263  pacman -Rs  t7-daw
+  264  sudo pacman -Rs  t7-daw
+  265  sudo pacman -Rs qttracereplay-qt4 
+  266  sudo pacman -Rs qttracereplay-qt4
+  267  sudo pacman -Rs qt-faststart 
+  268  sudo pacman -Rs qt5ct  
+  269  sudo pacman -Rs qt3to4-qt4
+  270  sudo pacman -Rs qtconfig-qt4
+  271  sudo pacman -Rs qt
+  272  sudo pacman -Rs qt5-tools
+  273  sudo pacman -Rs QtHelp
+  274  sudo pacman -Rs qt
+  275  sudo pacman -Rs qt
+  276  sudo pacman -Rs aurman
+  277  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  278  ping 127.1.1.0
+  279  poweroff
+  280  во
+  281  куищще
+  282  poweroff
+  283  startx
+  284  xorg
+  285  startx
+  286  startx
+  287  Sudo pacman -Syu
+  288  sudo pacman -Syu
+  289  sudo pacman -Syu
+  290  sudo pacman -Syu
+  291  startx
+  292  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  293  ping 127.1.1.0
+  294  sudo pacman -S gnome
+  295  startx
+  296  telegramm
+  297  telegram
+  298  t
+  299  reboot
+  300  yaourt
+  301  yaourt -S telegram
+  302  yaourt -S telegramm
+  303  telegram-desktop
+  304  yaourt -S telegram-desktop
+  305  yaourt -S telegram-desktop
+  306  telegram-desktop
+  307  poweroff
+  308  gnome-tweaks
+  309  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65\
+  310  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  311  ping 127.0.0.1
+  312  git clone https://github.com/Shamilkr/work.git
+  313  git status
+  314  cd work
+  315  ll
+  316  git push origin
+  317  git push origin
+  318  d
+  319  cd
+  320  git init
+  321  git add Spellchecker
+  322  cd Documents
+  323  git add Spellchecker
+  324  git commit -m "simple spellchecker"
+  325  git remote add origin https://github.com/Shamilkr/work.git
+  326  git push -u origin master
+  327  ping 127.0.0.1
+  328  pacman -Rs  git-desktop
+  329  sudo pacman -Rs  git-desktop
+  330  sudo pacman -Rs  github-desktop
+  331  yaourt -S tor-browser-en
+  332  ping 127.0.0.1
+  333  ping 127.0.0.1
+  334  poweroff
+  335  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  336  ping 127.0.0.1
+  337  yaourt -S github
+  338  yaourt -S github-desktop
+  339   github-desktop
+  340  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  341  ping 127.0.0.1
+  342  poweroff
+  343  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  344  ping 127.0.0.1
+  345  pacman -Rs ns3
+  346  sudo pacman -Rs ns3
+  347  sudo pacman -R ns3
+  348  cd
+  349  mkdir workspace
+  350  cd  workspace
+  351   wget https://www.nsnam.org/release/ns-allinone-3.29.tar.bz2
+  352  tar xjf ns-allinone-3.29.tar.bz2
+  353  cd ns-allinone-3.29
+  354  ls
+  355  ./build.py --enable-examples --enable-tests
+  356  ./build.py --enable-examples --enable-tests
+  357  ./waf configure --disable-werror --enable-examples --enable-tests
+  358  ./bake.py build
+  359  cd
+  360  ./build.py --enable-examples --enable-tests
+  361  cd workspace
+  362  git clone https://gitlab.com/nsnam/bake.git
+  363  export BAKE_HOME=`pwd`
+  364  export PATH=$PATH:$BAKE_HOME:$BAKE_HOME/build/bin
+  365  export PYTHONPATH=$PYTHONPATH:$BAKE_HOME:$BAKE_HOME/build/lib
+  366  ./bake.py configure -e ns-3.29
+  367  cd bake
+  368  export BAKE_HOME=`pwd`
+  369  export PATH=$PATH:$BAKE_HOME:$BAKE_HOME/build/bin
+  370  export PYTHONPATH=$PYTHONPATH:$BAKE_HOME:$BAKE_HOME/build/lib
+  371  cd
+  372  cd workspace 
+  373  ./bake.py configure -e ns-3.29
+  374  cd bake
+  375  ls
+  376  ./bake.py check
+  377  ./bake.py download
+  378  cd workspace
+  379  cd workspace 
+  380  ./bake.py download
+  381  cd workspace 
+  382  cd workspace
+  383  cd workspace 
+  384  cd
+  385  cd workspace 
+  386  git clone https://gitlab.com/nsnam/ns-3-allinone.git
+  387  cd ns-3-allinone
+  388  ls
+  389  python download.py
+  390  python download.py -n ns-3.29
+  391  ./bake.py build
+  392  ./waf clean
+  393  ./build.py --enable-examples --enable-tests
+  394  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  395  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  396  git clone git://github.com/mininet/mininet
+  397  cd mininet
+  398  git tag  # list available versions
+  399  git checkout -b 2.2.1 2.2.1
+  400  git checkout -b 2.2.1 2.3.0
+  401  git checkout -b 2.2.1 2.2.1
+  402  mininet/util/install.sh -a
+  403  util/install.sh -a
+  404  sudo rm -rf /usr/local/bin/mn /usr/local/bin/mnexec     /usr/local/lib/python*/*/*mininet*     /usr/local/bin/ovs-* /usr/local/sbin/ovs-*
+  405  cd
+  406  sudo rm -rf /usr/local/bin/mn /usr/local/bin/mnexec     /usr/local/lib/python*/*/*mininet*     /usr/local/bin/ovs-* /usr/local/sbin/ovs-*
+  407  lsb_release -a
+  408  yaourt -S mininet
+  409  mininet
+  410  yaourt -S floodlight
+  411  sudo mn
+  412  nodes
+  413  mininet> nodes
+  414  mn > nods
+  415  mn
+  416  sudo mn > nodes
+  417  yaourt -S openvswitch
+  418  sudo mn
+  419  service openvswitch-switch start
+  420  $ sudo mn —topo single,24
+  421   sudo mn —topo single,24
+  422   sudo mn -topo single,24
+  423   sudo mn --topo single,24
+  424  sudo ovs-vsctl show
+  425  Sudo systemctl enable ovs-vswitchd
+  426  sudo systemctl enable ovs-vswitchd
+  427  sudo systemctl enable ovsdb-server
+  428  sudo mn
+  429  sudo systemctl enable ovsdb-server
+  430  sudo systemctl enable ovsdb-server
+  431  sudo systemctl enable ovs-vswitchd
+  432  sudo systemctl enable ovsdb-server
+  433  cd /lib/systemd/system/ovsdb-server.service
+  434  /lib/systemd/system/ovsdb-server.service
+  435  cd lib
+  436  sudo systemctl enable ovsdb-server
+  437  sudo systemctl enable ovs-vswitchd
+  438  sudo mn
+  439  sudo systemctl enable ovsdb-server
+  440  sudo systemctl enable ovs-vswitchd
+  441  sudo mn 
+  442  sudo systemctl start ovs-vswitchd
+  443  sudo systemctl start ovsdb-server
+  444  sudo mn 
+  445  sudo mn -h
+  446  sudo wireshark
+  447  sudo wireshark &
+  448  sudo wireshark &
+  449  sudo wireshark &
+  450  of
+  451  sudo wireshark
+  452  sudo wireshark &
+  453  1
+  454  sudo mn
+  455  sudo mn -c
+  456  sudo mn
+  457  poweroff
+  458  cd
+  459  cd lib
+  460  [Install]
+  461  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  462  yaourt -S floodlight
+  463  sudo apt-get install build-essential default-jdk ant python-dev eclipse
+  464  git clone git://github.com/floodlight/floodlight.git
+  465  cd floodlight
+  466  ant
+  467  cd ant
+  468  sudo mkdir /var/lib/floodlight
+  469  sudo chmod 777 /var/lib/floodlight
+  470  java -jar target/floodlight.jar
+  471  sudo mn
+  472  sudo mn
+  473  sudo mn -c
+  474  sudo mn -s
+  475  sudo mn
+  476  poweroff
+  477  systemctl poweroff -i
+  478  sudo mn
+  479  poweroff
+  480  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  481  poweroff
+  482  sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set 65
+  483  poweroff
+  484  sudo poweroff
+  485  whoami
+  486  hostname
+  487  man man
+  488  mkdir ~/week1
+  489  cd week1
+  490  touch ex1.txt
+  491  ex1
+  492  ex1.txt
+  493  week1
+  494  cd
+  495  cd usr
+  496  cd week1
+  497  ls /usr/bin -r | grep "gcc" >> ex1.txt
+  498  history > ex2.txt

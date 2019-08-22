@@ -1,0 +1,11 @@
+x86_64-pc-linux-gnu-gcc-ranlib
+x86_64-pc-linux-gnu-gcc-nm
+x86_64-pc-linux-gnu-gcc-ar
+x86_64-pc-linux-gnu-gcc-8.3.0
+x86_64-pc-linux-gnu-gcc
+gccxml_cc1plus
+gccxml
+gcc-ranlib
+gcc-nm
+gcc-ar
+gcc
