@@ -1,0 +1,12 @@
+ex5.exe  :
+section             size         addr
+__text               162   4294971072
+__stubs               12   4294971234
+__stub_helper         36   4294971248
+__cstring             33   4294971284
+__unwind_info         72   4294971320
+__nl_symbol_ptr       16   4294971392
+__got                  8   4294971408
+__la_symbol_ptr       16   4294971416
+Total                355
+

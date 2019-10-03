@@ -1,0 +1,1 @@
+size -A ex5.exe >> ex1.txt
