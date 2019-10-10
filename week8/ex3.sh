@@ -1,0 +1,1 @@
+top -i 1 >> ex3.txt
