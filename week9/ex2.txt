@@ -1,0 +1,8 @@
+(1). To increase Hit/Miss ratio, we can construct a sequence such that 
+there will be requested mostly indentical(the same) page(s). Like, if 
+it is sequence with request of the same page, we will get only 1 miss because initially we don't have any pages in memory. 
+Example of sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 
+(2). To decrease Hit/Miss ratio, it's just opposite to (1).
+If there are all different pages should be requested, Hit/Miss ratio will be 0, because there will not be any hits. 
+Example of sequence: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
