@@ -1,0 +1,14 @@
+link ~/code_workspace/os_homework/week1/file
+.txt _ex2.txt // 1st command
+
+3026731 _ex2.txt // inodenumber
+
+// 2nd commnand
+find ~/code_workspace/os_homework/week1/ -in
+um 3026731 >> ex2.txt 
+
+/Users/levsvalov/code_workspace/os_homework/week1//file.txt
+find ~/code_workspace/os_homework/week1/ -in
+
+// 3rd commnad
+find ~/code_workspace/os_homework/week1/ -inum 3026731 -exec rm {} \; >> ex2.txt
