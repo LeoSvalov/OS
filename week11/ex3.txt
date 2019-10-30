@@ -1,0 +1,12 @@
+1st variant outputs:
+Hello                                                            
+Hello
+2nd variant outputs:
+Hello                                                            
+/n                                                                 
+/n
+
+So, the difference between variants is in that:
+In the first variant, both created processes have the same buffer, when parent process will make second printf, it will print all from the buffer
+In the second variant, 
+As child process inherits the buffer from the parent process, it will execute printf twice by child processes.
