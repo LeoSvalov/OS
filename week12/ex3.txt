@@ -1,0 +1,71 @@
+Bigger buffer leads to faster transfer.
+O_SYNC leads to slower transfers, because of waiting for the transfer to complete to continue to the next.
+Results are below:
+
+
+Buffer size: 256 bytes
+-e -n 	File size: 1MB.txt
+
+real	0m0.022s
+user	0m0.003s
+sys	0m0.018s
+
+(with O_SYNC)
+real	0m0.222s
+user	0m0.005s
+sys	0m0.124s
+
+-e -n 	File size: 100MB.txt
+
+real	0m2.023s
+user	0m0.231s
+sys	0m1.724s
+
+(with O_SYNC)
+real	0m16.498s 
+user	0m0.303s
+sys	0m10.218s
+
+
+Buffer size: 1024 bytes
+-e -n 	File size: 1MB.txt
+
+real	0m0.015s
+user	0m0.002s
+sys	0m0.013s
+
+(with O_SYNC)
+real	0m0.068s 
+user	0m0.002s
+sys	0m0.035s
+
+-e -n 	File size: 100MB.txt
+real	0m0.543s
+user	0m0.062s
+sys	0m0.462s
+
+(with O_SYNC)
+real	0m4.400s
+user	0m0.076s
+sys	0m2.675s
+
+
+Buffer size: 4096 bytes
+-e -n 	File size: 1MB.txt
+
+real	0m0.015s
+user	0m0.002s
+sys	0m0.013s
+(with O_SYNC)
+real	0m0.027s
+user	0m0.002s
+sys	0m0.013s
+
+-e -n 	File size: 100MB.txt
+real	0m0.183s
+user	0m0.017s
+sys	0m0.158s
+(with O_SYNC)
+real	0m1.431s
+user	0m0.023s
+sys	0m0.824s
